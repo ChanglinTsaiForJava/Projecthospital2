@@ -1,0 +1,107 @@
+/*!* 全局設定 *!*/
+/*body {*/
+/*    font-family: 'Arial', sans-serif;*/
+/*    background-color: #f5f8fa;*/
+/*    color: #333;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+/*.container {*/
+/*    max-width: 900px;*/
+/*    margin: auto;*/
+/*    background: #ffffff;*/
+/*    padding: 20px;*/
+/*    border-radius: 8px;*/
+/*    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+/*}*/
+
+/*h1, h3 {*/
+/*    color: #1a73e8;*/
+/*    text-align: center;*/
+/*}*/
+
+/*hr {*/
+/*    border: 1px solid #1a73e8;*/
+/*}*/
+
+/*!* 表單樣式 *!*/
+/*form {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    gap: 10px;*/
+/*}*/
+
+/*input[type="text"], input[type="file"], input[type="password"] {*/
+/*    width: 100%;*/
+/*    padding: 10px;*/
+/*    border: 1px solid #ccc;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+/*button {*/
+/*    background-color: #1a73e8;*/
+/*    color: white;*/
+/*    padding: 10px;*/
+/*    border: none;*/
+/*    border-radius: 5px;*/
+/*    cursor: pointer;*/
+/*    transition: 0.3s;*/
+/*}*/
+
+/*button:hover {*/
+/*    background-color: #155db2;*/
+/*}*/
+
+/*!* 表格樣式 *!*/
+/*.table {*/
+/*    width: 100%;*/
+/*    border-collapse: collapse;*/
+/*    margin-top: 20px;*/
+/*}*/
+
+/*.table th, .table td {*/
+/*    padding: 12px;*/
+/*    border: 1px solid #ddd;*/
+/*    text-align: left;*/
+/*}*/
+
+/*.table th {*/
+/*    background-color: #1a73e8;*/
+/*    color: white;*/
+/*}*/
+
+/*!* 按鈕樣式 *!*/
+/*.btn {*/
+/*    display: inline-block;*/
+/*    padding: 8px 12px;*/
+/*    text-decoration: none;*/
+/*    color: white;*/
+/*    background-color: #28a745;*/
+/*    border-radius: 5px;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.btn-danger {*/
+/*    background-color: #dc3545;*/
+/*}*/
+
+/*.btn-primary {*/
+/*    background-color: #1a73e8;*/
+/*}*/
+
+/*!* 警告訊息 *!*/
+/*.alert {*/
+/*    padding: 10px;*/
+/*    border-radius: 5px;*/
+/*    margin-top: 10px;*/
+/*}*/
+
+/*.alert-info {*/
+/*    background-color: #e0f3ff;*/
+/*    color: #1a73e8;*/
+/*}*/
+
+/*.text-danger {*/
+/*    color: #dc3545;*/
+/*}*/
